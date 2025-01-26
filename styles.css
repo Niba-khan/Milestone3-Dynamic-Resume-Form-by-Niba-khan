@@ -12,7 +12,7 @@ body {
 
 h1,h2{
     text-align: center;
-    color:white
+    color: rgb(5, 26, 24);
 }
 
 form {
@@ -76,7 +76,7 @@ button:hover {
     padding: 20px;
     border: 2px solid #3498bd;
     border-radius: 8px;
-    background-image: url(images/bg-1.gif);
+     background-color: cadetblue;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
